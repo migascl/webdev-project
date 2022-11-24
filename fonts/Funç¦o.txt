@@ -1,0 +1,3 @@
+Apresenta os ícones de telefone, localização e carta na parte final de cada categoria (Mais informações em:)
+Apresenta as setas de SWIPE nas categorias início (Locais a visitar) e serviços (O melhor ao seu dispor)
+Permite o uso de outros tipos de letra.
